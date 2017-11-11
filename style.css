@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: Arial;
+}
+table {
+    cursor: pointer;
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-family: Arial;    
+    font-size: 100px;
+    color: white;
+    background-color:#2C95DE;    
+}
+  
+td {
+    border: 3px solid white;
+    height: 200px;
+    width: 200px;
+    vertical-align: middle;
+    text-align: center;    
+    
+}
+button {
+    background-color: blue;
+    font-family: Arial;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+    color: white;
+    margin: 40px;
+    border-radius: 5px;    
+}
